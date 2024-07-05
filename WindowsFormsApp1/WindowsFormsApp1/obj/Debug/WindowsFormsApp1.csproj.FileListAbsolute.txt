@@ -1,0 +1,74 @@
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChuongTrinhHoc.resources
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DSMH.resources
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DongHP.resources
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DKHP.resources
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HSSV.resources
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MonHocMo.resources
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DN.resources
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HocPhi.resources
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SinhVien.resources
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestDongHP.resources
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+D:\An\UIT\2grade\HK2\SE104\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.test.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChuongTrinhHoc.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DSMH.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DKHP.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DN.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HocPhi.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HSSV.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MonHocMo.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SinhVien.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.test.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestDongHP.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DongHP.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+C:\Users\NGUYEN AN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChuongTrinhHoc.resources
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DSMH.resources
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DKHP.resources
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DN.resources
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HocPhi.resources
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HSSV.resources
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MonHocMo.resources
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SinhVien.resources
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.test.resources
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestDongHP.resources
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DongHP.resources
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\NGUYEN AN\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
